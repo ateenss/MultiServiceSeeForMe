@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/CWP3Data/CWP3Data.iml" filepath="$PROJECT_DIR$/CWP3Data/CWP3Data.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CWP3IOService/CWP3IOService.iml" filepath="$PROJECT_DIR$/CWP3IOService/CWP3IOService.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CWP3Multiple/CWP3Multiple.iml" filepath="$PROJECT_DIR$/CWP3Multiple/CWP3Multiple.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CWP3Single/CWP3Single.iml" filepath="$PROJECT_DIR$/CWP3Single/CWP3Single.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CWP3Single/CWP3Single.iml" filepath="$PROJECT_DIR$/CWP3Single/CWP3Single.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CWP3Test/CWP3Test.iml" filepath="$PROJECT_DIR$/CWP3Test/CWP3Test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../HBTOS/HBTOS.iml" filepath="$PROJECT_DIR$/../HBTOS/HBTOS.iml" />
+    </modules>
+  </component>
+</project>
